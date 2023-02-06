@@ -65,14 +65,10 @@ education:
       - degree: MSc in Informatics (Computer Science)
         university: Ionian Univeristy
         time: 2019 - present
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details: my curriculum focuses on information systems, both in terms of their production and their use. 
+                 This does not mean, of course, that it is limited to that. Through this program one learns everything one needs to consider 
+                 oneself a full stack dev from programming languages and data structures to cyber security issues. For a more detailed description 
+                 one can also see what the department itself says about its program [here](https://di.ionio.gr/en/).
       - degree: 
         university: 
         time: 
@@ -85,6 +81,47 @@ education:
             - Bullet point
             - Bullet point
 
+experiences:	
+    title: Experiences	
+    info:	
+      - role: Lead Developer	
+        time: 2015 - Present	
+        company: Startup Hubs, San Francisco	
+        details: |	
+          Describe your role here lorem ipsum dolor sit amet, consectetuer	
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.	
+          Cum sociis natoque penatibus et magnis dis parturient montes,	
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,	
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis	
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus	
+          error sit voluptatem accusantium doloremque laudantium, totam rem	
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi	
+          architecto beatae vitae dicta sunt explicabo.	
+            - Bullet point	
+            - Bullet point	
+      - role: Senior Software Engineer	
+        time: 2014 - 2015	
+        company: Google, London	
+        details: |	
+          Describe your role here lorem ipsum dolor sit amet, consectetuer	
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.	
+          Cum sociis natoque penatibus et magnis dis parturient montes,	
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,	
+          pellentesque eu, pretium quis, sem.	
+            - Bullet point	
+            - Bullet point	
+      - role: UI Developer	
+        time: 2012 - 2014	
+        company: Amazon, London	
+        details: |	
+          Describe your role here lorem ipsum dolor sit amet, consectetuer	
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.	
+          Cum sociis natoque penatibus et magnis dis parturient montes,	
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,	
+          pellentesque eu, pretium quis, sem.	
+            - Bullet point	
+            - Bullet point
+            
 skills:
     title: Skills &amp; Proficiency
 
