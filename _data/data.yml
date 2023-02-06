@@ -66,19 +66,21 @@ education:
                  This does not mean, of course, that it is limited to that. Through this program one learns everything one needs to consider 
                  oneself a full stack dev from programming languages and data structures to cyber security issues. For a more detailed description 
                  one can also see what the department itself says about its program [here](https://di.ionio.gr/en/).
-      - degree: 
-        university: 
-        time: 
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - title: Responsive Web Desing
+        company: freeCodeCamp
+        time: 09/11/21
+        details:
+      - title: Ethical-Hacking
+        company: Audax
+        time: 19/04/21
+        details:
+      - title: Website Creation
+        company: Google (Grow Greek Tourism Online)
+        time: 30/06/2020
+        details:
+        
 
-experiences:	
+Work knowlegde:	
     title: Experiences	
     info:	
       - role: AP (activity planning) member 	
