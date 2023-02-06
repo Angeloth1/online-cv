@@ -130,8 +130,8 @@ certifications:
           details: |
           
         - name: Website Creation
-          start: 30/06/2020
-          end: 30/06/2020
+          start: 30/06/20
+          end: 30/06/20
           organization: Google (Grow Greek Tourism Online)
           credentialid:
           credentialurl: 
