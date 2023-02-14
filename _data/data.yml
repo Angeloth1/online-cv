@@ -79,12 +79,6 @@ experiences:
                  as together with the other members of the activity planning we were in charge of planning the projects we would run,
                  finding speaker, hours, classrooms and even topics, many times we were also involved in promoting it.
 
-seminars:
-    title: testName
-    info: 
-      - time: 2/3/21
-        company: tmp
-        details: tmp
       
 
 skills:
@@ -135,4 +129,12 @@ certifications:
           organization: Google (Grow Greek Tourism Online)
           credentialid:
           credentialurl: 
+          details: |
+        
+       -  name: Python Data structures
+          start: 07/02/23
+          end: 14/02/23
+          organization: Sololearn
+          credentialid:
+          credentialurl:
           details: |
