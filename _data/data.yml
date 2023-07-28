@@ -7,15 +7,15 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Angelos Thomos
-    tagline: Full Stack Developer
+    όνομα: Άγγελος Θώμος
+    Τίτλος: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: thomosangelos@gmail.com
-    phone: 694 980 9401
+    τηλέφωνο: 694 980 9401
     timezone: 
-    citizenship: Greek 
+    Καταγογή: Έλληνας 
     website:
     linkedin: athomos
     xing: 
@@ -30,54 +30,54 @@ sidebar:
     pdf: 
 
     languages:
-      title: Languages
+      title: Γλώσσες
       info:
-        - idiom: Greek
-          level: Native
+        - idiom: Ελληνικά
+          level: Μητρική
 
-        - idiom: English
-          level: Professional
+        - idiom: Αγγλικά
+          level: C1
 
     interests:
-      title: Interests
+      title: Ενδιαφέροντα
       info:
-        - item: Working out
+        - item: Γυμναστική
           link:
 
-        - item: Gaming
+        - item: Δίαβασμα βιβλίων
           link:
 
-        - item: Cooking
+        - item: Μαγειρική
           link:
 
 career-profile:
-    title: Career Profile
-    summary: The jobs I have done so far have been mainly focused around the customer service part. 
-             I have worked as a cashier/clerk in a grocery store and as a clerk in a laundry. Although
-             the jobs I have done so far are not related to the IT field, I have acquired many of the characteristics 
-             that every employee needs, such as cooperativeness, organization, patience, social skills and others. 
+    title: Επαγγελματικό προφίλ
+    summary: Οι δουλειές που έχω κάνει μέχρι στιγμής έχουν επικεντρωθεί κυρίως στο κομμάτι της εξυπηρέτησης πελατών. 
+             Έχω εργαστεί ως ταμίας/υπάλληλος σε παντοπωλείο και ως υπάλληλος σε πλυντήριο. Αν και
+             οι δουλειές που έχω κάνει μέχρι στιγμής δεν σχετίζονται με τον τομέα της πληροφορικής, έχω αποκτήσει πολλά από τα χαρακτηριστικά 
+             που χρειάζεται κάθε εργαζόμενος, όπως η συνεργατικότητα, η οργάνωση, η υπομονή, οι κοινωνικές δεξιότητες και άλλα. 
 education:
-    title: Education
+    title: Εκπαίδευση
     info:
-      - degree: BSc in Informatics (Computer Science)
-        university: Ionian Univeristy
-        time: 2019 - present
-        details: my curriculum focuses on information systems, both in terms of their production and their use. 
-                 This does not mean, of course, that it is limited to that. Through this program one learns everything one needs to consider 
-                 oneself a full stack dev from programming languages and data structures to cyber security issues. For a more detailed description 
-                 one can also see what the department itself says about its program [here](https://di.ionio.gr/en/).
+      - degree: BSc Πληροφορική
+        university: Ιόνιο Πανεπιστήμιο
+        time: 2019 - παρόν
+        details: το πρόγραμμα σπουδών μου επικεντρώνεται στα πληροφοριακά συστήματα, τόσο όσον αφορά την παραγωγή όσο και τη χρήση τους. 
+                 Αυτό δεν σημαίνει, φυσικά, ότι περιορίζεται σε αυτό. Μέσω αυτού του προγράμματος μαθαίνει κανείς όλα όσα χρειάζεται να εξετάσει 
+                 τον εαυτό του ως έναν full stack dev, από τις γλώσσες προγραμματισμού και τις δομές δεδομένων μέχρι τα θέματα ασφάλειας στον κυβερνοχώρο. Για μια πιο λεπτομερή περιγραφή 
+                 μπορεί επίσης να δει κανείς τι λέει το ίδιο το τμήμα για το πρόγραμμά του [here](https://di.ionio.gr/en/).
      
 
 experiences:	
-    title: Experiences	
+    title: Εθελοντισμός	
     info:	
-      - role: AP (activity planning) member 	
+      - role: AP (activity planning) μέλος	
         time: 2021 - 2022	
         company: IEEE ionian sb	
-        details: The IEEE ionian sb is a student group of the ionian university with the aim to offer extra material
-                 to students on various fields of computer science and beyond. My role in this group was mainly organizational, 
-                 as together with the other members of the activity planning we were in charge of planning the projects we would run,
-                 finding speaker, hours, classrooms and even topics, many times we were also involved in promoting it.
+        details: TΤο IEEE ionian sb είναι μια φοιτητική ομάδα του Ιονίου Πανεπιστημίου με σκοπό να προσφέρει επιπλέον υλικό
+                 στους φοιτητές σε διάφορους τομείς της επιστήμης των υπολογιστών και όχι μόνο. Ο ρόλος μου σε αυτή την ομάδα ήταν κυρίως οργανωτικός, 
+                 καθώς μαζί με τα υπόλοιπα μέλη του σχεδιασμού δραστηριοτήτων ήμασταν υπεύθυνοι για τον προγραμματισμό των έργων που θα εκτελούσαμε,
+                 την εξεύρεση ομιλητή, ωρών, αιθουσών διδασκαλίας, ακόμη και θεμάτων, ενώ πολλές φορές συμμετείχαμε και στην προώθησή τους.
 
       
 
@@ -105,7 +105,7 @@ skills:
 
 
 certifications:
-      title: Certifications
+      title: Πιστοποιήσεις
       list:
         - name: Responsive Web Desing
           start: 20/10/21
