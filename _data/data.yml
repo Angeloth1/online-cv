@@ -116,8 +116,8 @@ certifications:
           details: |
         
         - name: Data Analysis with Python Projects
-          start: 4/8/23
-          end: 09/8/23
+          start: 04/08/23
+          end: 09/08/23
           organization: freeCodeCamp
           credentialid:
           credentialurl: 
