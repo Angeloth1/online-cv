@@ -65,7 +65,7 @@ education:
         details: το πρόγραμμα σπουδών μου επικεντρώνεται στα πληροφοριακά συστήματα, τόσο όσον αφορά την παραγωγή όσο και τη χρήση τους. 
                  Αυτό δεν σημαίνει, φυσικά, ότι περιορίζεται σε αυτό. Μέσω αυτού του προγράμματος μαθαίνει κανείς όλα όσα χρειάζεται να εξετάσει 
                  τον εαυτό του ως έναν full stack dev, από τις γλώσσες προγραμματισμού και τις δομές δεδομένων μέχρι τα θέματα ασφάλειας στον κυβερνοχώρο. Για μια πιο λεπτομερή περιγραφή 
-                 μπορεί επίσης να δει κανείς τι λέει το ίδιο το τμήμα για το πρόγραμμά του [here](https://di.ionio.gr/en/).
+                 μπορεί επίσης να δει κανείς τι λέει το ίδιο το τμήμα για το πρόγραμμά του [εδώ](https://di.ionio.gr/en/).
      
 
 experiences:	
@@ -113,6 +113,14 @@ certifications:
           organization: freeCodeCamp
           credentialid:
           credentialurl: 
+          details: |
+        
+        - name: Data Analysis with Python Projects
+          start: 4/8/23
+          end: 09/8/23
+          organization: freeCodeCamp
+          credentialid:
+          credentialurl: https://www.freecodecamp.org/certification/fcc061d5198-fe0c-4380-a331-b15e1c10a252/data-analysis-with-python-v7 
           details: |
         
         - name: Ethical-Hacking
