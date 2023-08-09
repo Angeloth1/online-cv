@@ -86,19 +86,19 @@ skills:
 
     toolset:
       - name: Python 
-        level: 79%
+        level: 80%
 
       - name: Javascript 
         level: 60%
 
       - name: C++
-        level: 60%
+        level: 65%
 
       - name: HTML5 & CSS
         level: 70%
 
       - name: Figma
-        level: 85%
+        level: 75%
 
       - name: Sketch & Krita
         level: 80%
@@ -120,7 +120,7 @@ certifications:
           end: 09/8/23
           organization: freeCodeCamp
           credentialid:
-          credentialurl: https://www.freecodecamp.org/certification/fcc061d5198-fe0c-4380-a331-b15e1c10a252/data-analysis-with-python-v7 
+          credentialurl: 
           details: |
         
         - name: Ethical-Hacking
